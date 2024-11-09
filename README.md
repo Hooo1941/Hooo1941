@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Hooo1941/Hooo1941** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Master’s degree student majoring in Artificial Intelligence at Wuhan University. 
 
-Here are some ideas to get you started:
+My blog is [here](https://hooo1941.github.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+My primary programming languages are C/C++ and Python. I am currently delving into Operating System and heterogeneous devices.
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,go,javascript,typescript,python,cs,mysql,linux,docker,androidstudio&perline=6)](https://skillicons.dev)
+
+### GitHub Status
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hooo1941&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hooo1941)
