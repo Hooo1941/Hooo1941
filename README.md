@@ -10,7 +10,7 @@ My primary programming languages are C/C++ and Python. I am currently delving in
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,go,javascript,typescript,python,cs,mysql,linux,docker,androidstudio&perline=6)](https://skillicons.dev)
 
-### GitHub Status
+### GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hooo1941&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
